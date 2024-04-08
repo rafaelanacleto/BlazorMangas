@@ -3,6 +3,7 @@ using BlazorMangas.Services.Autentica;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using Blazored.LocalStorage;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
@@ -15,6 +16,7 @@ builder.Services.AddHttpClient("ApiMangas", options =>
     options.BaseAddress = new Uri("https://localhost:7020/");
 });
 
+builder.Services.AddBlazoredLocalStorage();
 builder.Services.AddAuthorizationCore();
 
 builder.Services.AddScoped<TokenServerAuthenticationStateProvider>();
