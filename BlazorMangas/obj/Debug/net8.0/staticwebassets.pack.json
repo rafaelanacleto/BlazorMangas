@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\obj\\Debug\\net8.0\\compressed\\2ml1fth6je.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorMangas.styles.css",
+      "PackagePath": "staticwebassets\\BlazorMangas.styles.css"
+    },
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\wwwroot\\legion.jpeg",
+      "PackagePath": "staticwebassets\\legion.jpeg"
+    },
+    {
+      "Id": "C:\\repos\\BlazorMangas\\BlazorMangas\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorMangas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorMangas.props",
+      "PackagePath": "build\\BlazorMangas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorMangas.props",
+      "PackagePath": "buildMultiTargeting\\BlazorMangas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorMangas.props",
+      "PackagePath": "buildTransitive\\BlazorMangas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
