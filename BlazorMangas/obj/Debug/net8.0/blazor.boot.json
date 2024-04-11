@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorMangas",
   "resources": {
-    "hash": "sha256-JFsXkK44vrOP91/COeY7/8nyhMZoAkQ+AMaM6Ua2ff4=",
+    "hash": "sha256-cGfijdLg3VQJoQVa6HGqF5xMC6aVoOGAwwS50JPUDzs=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.2cqn9487zw.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -219,10 +219,10 @@
       "mscorlib.wasm": "sha256-/xjZuJwCmantx5vGyH5ZZ8keySSTeu+YHKQRJbZzcuM=",
       "netstandard.wasm": "sha256-vuFKmCGJbyv85DrzI6S1ZvCikuhIllH6hqbXIL+fUAA=",
       "System.Private.CoreLib.wasm": "sha256-SZkozEDkHEFN0VaDmhl2HOenGaqTOmHqEGkraz3Aejc=",
-      "BlazorMangas.wasm": "sha256-PYMlp15wk+UWgUqbumZXcb3x3caYiW2Mq9mO98hpWsU="
+      "BlazorMangas.wasm": "sha256-b38LMn9crbihRReDuDD+G2yZvBysmnKc02u9XLGveN4="
     },
     "pdb": {
-      "BlazorMangas.pdb": "sha256-wTxfgFbazie24nbqkyzjYb5gbgR0cjJvhFNYy1ANElU="
+      "BlazorMangas.pdb": "sha256-lu+C7ydFVKvchYrywrUHRzlI09doz/EV3Yy3H2XIhQ4="
     }
   },
   "cacheBootResources": true,

@@ -34,6 +34,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0ZW50aWNhL0xvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/rafael/repos/BlazorMangas/BlazorMangas/Pages/Autentica/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0ZW50aWNhL0xvZ291dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/rafael/repos/BlazorMangas/BlazorMangas/Pages/Autentica/NotAuthorized.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0ZW50aWNhL05vdEF1dGhvcml6ZWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/rafael/repos/BlazorMangas/BlazorMangas/Pages/Categorias/Categorias.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmlhcy9DYXRlZ29yaWFzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,6 +60,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/rafael/repos/BlazorMangas/BlazorMangas/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/rafael/repos/BlazorMangas/BlazorMangas/Shared/DisplayMessage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0Rpc3BsYXlNZXNzYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/rafael/repos/BlazorMangas/BlazorMangas/Shared/MangasCategoriaNavMenu.razor]
