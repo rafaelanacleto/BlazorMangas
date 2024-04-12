@@ -16,7 +16,21 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\Api\" />
+    <Compile Remove="Services\Api\**" />
+    <Compile Include="Services\API\CategoriaService.cs" />
+    <Compile Include="Services\API\ICategoriaService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Services\Api\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Services\Api\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Services\Api\**" />
   </ItemGroup>
 
 </Project>
