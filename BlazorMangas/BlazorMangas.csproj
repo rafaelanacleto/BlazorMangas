@@ -18,6 +18,7 @@
   <ItemGroup>
     <Compile Remove="Services\Api\**" />
     <Compile Include="Services\API\CategoriaService.cs" />
+    <Compile Include="Services\API\CustomHttpHandler.cs" />
     <Compile Include="Services\API\ICategoriaService.cs" />
   </ItemGroup>
 
