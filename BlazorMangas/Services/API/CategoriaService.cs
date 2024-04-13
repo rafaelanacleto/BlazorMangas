@@ -7,7 +7,7 @@ public class CategoriaService : ICategoriaService
 {
     private readonly IHttpClientFactory _httpClientFactory;
     public ILogger<CategoriaService> _logger;
-    private const string apiEndpoint = "/api/categorias/";
+    private const string apiEndpoint = "/api/Categorias/";
 
     private CategoriaDTO? categoria;
     private IEnumerable<CategoriaDTO>? categorias;

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorMangas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26316549ec508ed53adb142b0f8d830c8e1c8009")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0ef06111b718896a72729b947ffce5efd3c732b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorMangas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorMangas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
