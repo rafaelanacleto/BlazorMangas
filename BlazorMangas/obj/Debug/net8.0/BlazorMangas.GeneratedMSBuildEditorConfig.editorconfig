@@ -62,12 +62,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/repos/BlazorMangas/BlazorMangas/Shared/Confirma.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpcm1hLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/repos/BlazorMangas/BlazorMangas/Shared/DisplayMessage.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERpc3BsYXlNZXNzYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/repos/BlazorMangas/BlazorMangas/Shared/MangasCategoriaNavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1hbmdhc0NhdGVnb3JpYU5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repos/BlazorMangas/BlazorMangas/Shared/Paginacao.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhZ2luYWNhby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/repos/BlazorMangas/BlazorMangas/_Imports.razor]

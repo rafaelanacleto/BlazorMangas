@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\repos\\BlazorMangas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|c:\\repos\\blazormangas\\blazormangas\\services\\api\\mangaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|solutionrelative:blazormangas\\services\\api\\mangaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|c:\\repos\\blazormangas\\blazormangas\\services\\api\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|solutionrelative:blazormangas\\services\\api\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|c:\\repos\\blazormangas\\blazormangas\\services\\api\\imangaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|solutionrelative:blazormangas\\services\\api\\imangaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|c:\\repos\\blazormangas\\blazormangas\\pages\\mangas\\mangas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|solutionrelative:blazormangas\\pages\\mangas\\mangas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|c:\\repos\\blazormangas\\blazormangas\\pages\\categorias\\categorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|solutionrelative:blazormangas\\pages\\categorias\\categorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|c:\\repos\\blazormangas\\blazormangas\\services\\api\\customhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|solutionrelative:blazormangas\\services\\api\\customhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,76 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MangaService.cs",
-              "DocumentMoniker": "C:\\repos\\BlazorMangas\\BlazorMangas\\Services\\API\\MangaService.cs",
-              "RelativeDocumentMoniker": "BlazorMangas\\Services\\API\\MangaService.cs",
-              "ToolTip": "C:\\repos\\BlazorMangas\\BlazorMangas\\Services\\API\\MangaService.cs",
-              "RelativeToolTip": "BlazorMangas\\Services\\API\\MangaService.cs",
-              "ViewState": "AQIAAM0AAAAAAAAAAADwv+UAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:00:03.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IMangaService.cs",
-              "DocumentMoniker": "C:\\repos\\BlazorMangas\\BlazorMangas\\Services\\API\\IMangaService.cs",
-              "RelativeDocumentMoniker": "BlazorMangas\\Services\\API\\IMangaService.cs",
-              "ToolTip": "C:\\repos\\BlazorMangas\\BlazorMangas\\Services\\API\\IMangaService.cs",
-              "RelativeToolTip": "BlazorMangas\\Services\\API\\IMangaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:48:02.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Mangas.razor",
               "DocumentMoniker": "C:\\repos\\BlazorMangas\\BlazorMangas\\Pages\\Mangas\\Mangas.razor",
               "RelativeDocumentMoniker": "BlazorMangas\\Pages\\Mangas\\Mangas.razor",
               "ToolTip": "C:\\repos\\BlazorMangas\\BlazorMangas\\Pages\\Mangas\\Mangas.razor",
               "RelativeToolTip": "BlazorMangas\\Pages\\Mangas\\Mangas.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T12:46:43.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Categorias.razor",
-              "DocumentMoniker": "C:\\repos\\BlazorMangas\\BlazorMangas\\Pages\\Categorias\\Categorias.razor",
-              "RelativeDocumentMoniker": "BlazorMangas\\Pages\\Categorias\\Categorias.razor",
-              "ToolTip": "C:\\repos\\BlazorMangas\\BlazorMangas\\Pages\\Categorias\\Categorias.razor",
-              "RelativeToolTip": "BlazorMangas\\Pages\\Categorias\\Categorias.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T17:05:38.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomHttpHandler.cs",
-              "DocumentMoniker": "C:\\repos\\BlazorMangas\\BlazorMangas\\Services\\API\\CustomHttpHandler.cs",
-              "RelativeDocumentMoniker": "BlazorMangas\\Services\\API\\CustomHttpHandler.cs",
-              "ToolTip": "C:\\repos\\BlazorMangas\\BlazorMangas\\Services\\API\\CustomHttpHandler.cs",
-              "RelativeToolTip": "BlazorMangas\\Services\\API\\CustomHttpHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:01:50.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriaService.cs",
-              "DocumentMoniker": "C:\\repos\\BlazorMangas\\BlazorMangas\\Services\\API\\CategoriaService.cs",
-              "RelativeDocumentMoniker": "BlazorMangas\\Services\\API\\CategoriaService.cs",
-              "ToolTip": "C:\\repos\\BlazorMangas\\BlazorMangas\\Services\\API\\CategoriaService.cs",
-              "RelativeToolTip": "BlazorMangas\\Services\\API\\CategoriaService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T16:59:56.227Z",
+              "WhenOpened": "2024-04-15T12:46:43.662Z",
               "EditorCaption": ""
             }
           ]

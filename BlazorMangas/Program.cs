@@ -30,5 +30,7 @@ builder.Services.AddScoped<AuthenticationStateProvider>(provider =>
 builder.Services.AddScoped<IAuthService, AuthService>();
 //serviço de categorias e mangas
 builder.Services.AddScoped<ICategoriaService, CategoriaService>();
+builder.Services.AddScoped<IMangaService, MangaService>();
+
 
 await builder.Build().RunAsync();
