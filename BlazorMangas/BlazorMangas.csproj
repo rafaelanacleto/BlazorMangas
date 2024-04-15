@@ -20,6 +20,8 @@
     <Compile Include="Services\API\CategoriaService.cs" />
     <Compile Include="Services\API\CustomHttpHandler.cs" />
     <Compile Include="Services\API\ICategoriaService.cs" />
+    <Compile Include="Services\API\IMangaService.cs" />
+    <Compile Include="Services\API\MangaService.cs" />
   </ItemGroup>
 
   <ItemGroup>

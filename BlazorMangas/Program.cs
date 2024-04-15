@@ -18,6 +18,8 @@ builder.Services.AddHttpClient("ApiMangas", options =>
     options.BaseAddress = new Uri("https://localhost:7020/");
 }).AddHttpMessageHandler<CustomHttpHandler>();
 
+builder.Services.AddScoped<CustomHttpHandler>();
+
 builder.Services.AddBlazoredLocalStorage();
 builder.Services.AddAuthorizationCore();
 
