@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\repos\\BlazorMangas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|c:\\repos\\blazormangas\\blazormangas\\services\\api\\mangaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|solutionrelative:blazormangas\\services\\api\\mangaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|c:\\repos\\blazormangas\\blazormangas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89E92AA8-958E-49AB-9B1E-9BB882EBF410}|BlazorMangas\\BlazorMangas.csproj|solutionrelative:blazormangas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MangaService.cs",
+              "DocumentMoniker": "C:\\repos\\BlazorMangas\\BlazorMangas\\Services\\Api\\MangaService.cs",
+              "RelativeDocumentMoniker": "BlazorMangas\\Services\\Api\\MangaService.cs",
+              "ToolTip": "C:\\repos\\BlazorMangas\\BlazorMangas\\Services\\Api\\MangaService.cs",
+              "RelativeToolTip": "BlazorMangas\\Services\\Api\\MangaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:52:03.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\repos\\BlazorMangas\\BlazorMangas\\Program.cs",
               "RelativeDocumentMoniker": "BlazorMangas\\Program.cs",
               "ToolTip": "C:\\repos\\BlazorMangas\\BlazorMangas\\Program.cs",
               "RelativeToolTip": "BlazorMangas\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T17:26:18.514Z",
               "EditorCaption": ""
