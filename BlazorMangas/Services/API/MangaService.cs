@@ -1,5 +1,5 @@
 ﻿using BlazorMangas.Models.DTOs;
-using BlazorMangas.Services.API;
+using BlazorMangas.Services.Api;
 using System.Net;
 using System.Net.Http.Json;
 using System.Text;

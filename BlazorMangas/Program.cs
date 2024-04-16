@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Blazored.LocalStorage;
-using BlazorMangas.Services.API;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
@@ -31,6 +30,7 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 //serviço de categorias e mangas
 builder.Services.AddScoped<ICategoriaService, CategoriaService>();
 builder.Services.AddScoped<IMangaService, MangaService>();
+builder.Services.AddScoped<IFileUploadService, FileUploadService>();
 
 
 await builder.Build().RunAsync();

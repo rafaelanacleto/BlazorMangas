@@ -1,6 +1,6 @@
 using BlazorMangas.Models.DTOs;
 
-namespace BlazorMangas.Services.API;
+namespace BlazorMangas.Services.Api;
 
 public interface ICategoriaService
 {

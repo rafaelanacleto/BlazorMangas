@@ -17,11 +17,13 @@
 
   <ItemGroup>
     <Compile Remove="Services\Api\**" />
-    <Compile Include="Services\API\CategoriaService.cs" />
-    <Compile Include="Services\API\CustomHttpHandler.cs" />
-    <Compile Include="Services\API\ICategoriaService.cs" />
-    <Compile Include="Services\API\IMangaService.cs" />
-    <Compile Include="Services\API\MangaService.cs" />
+    <Compile Include="Services\Api\CategoriaService.cs" />
+    <Compile Include="Services\Api\CustomHttpHandler.cs" />
+    <Compile Include="Services\Api\FileUploadService.cs" />
+    <Compile Include="Services\Api\ICategoriaService.cs" />
+    <Compile Include="Services\Api\IFileUploadService.cs" />
+    <Compile Include="Services\Api\IMangaService.cs" />
+    <Compile Include="Services\Api\MangaService.cs" />
   </ItemGroup>
 
   <ItemGroup>

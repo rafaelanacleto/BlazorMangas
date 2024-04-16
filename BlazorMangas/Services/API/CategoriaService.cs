@@ -1,13 +1,13 @@
 using BlazorMangas.Models.DTOs;
 using System.Net.Http.Json;
-using BlazorMangas.Services.API;
+using BlazorMangas.Services.Api;
 
 namespace BlazorMangas.Services.Api;
 public class CategoriaService : ICategoriaService
 {
     private readonly IHttpClientFactory _httpClientFactory;
     public ILogger<CategoriaService> _logger;
-    private const string apiEndpoint = "/api/Categorias/";
+    private const string ApiEndpoint = "/Api/Categorias/";
 
     private CategoriaDTO? categoria;
     private IEnumerable<CategoriaDTO>? categorias;
@@ -24,7 +24,7 @@ public class CategoriaService : ICategoriaService
         try
         {
             var httpClient = _httpClientFactory.CreateClient("ApiMangas");
-            var response = await httpClient.GetAsync(apiEndpoint + id);
+            var response = await httpClient.GetAsync(ApiEndpoint + id);
 
             if (response.IsSuccessStatusCode)
             {
@@ -49,12 +49,12 @@ public class CategoriaService : ICategoriaService
         try
         {
             var httpClient = _httpClientFactory.CreateClient("ApiMangas");
-            var result = await httpClient.GetFromJsonAsync<List<CategoriaDTO>>(apiEndpoint);
+            var result = await httpClient.GetFromJsonAsync<List<CategoriaDTO>>(ApiEndpoint);
             return result;
         }
         catch (Exception ex)
         {
-            _logger.LogError($"Erro ao acessar categorias: {apiEndpoint} " + ex.Message);
+            _logger.LogError($"Erro ao acessar categorias: {ApiEndpoint} " + ex.Message);
             throw new UnauthorizedAccessException();
         }
     }
