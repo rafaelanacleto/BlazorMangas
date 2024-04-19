@@ -14,7 +14,7 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 
 builder.Services.AddHttpClient("ApiMangas", options =>
 {
-    options.BaseAddress = new Uri("https://localhost:7020/");
+    options.BaseAddress = new Uri("http://localhost:5094/");
 }).AddHttpMessageHandler<CustomHttpHandler>();
 
 builder.Services.AddScoped<CustomHttpHandler>();
